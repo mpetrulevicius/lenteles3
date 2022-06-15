@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+table {
+    border-collapse: collapse;
+    border: black;
+    margin: 40px auto;
+    font-size: 20px;
+} 
+
+th, td {
+    text-align: left;
+    padding: 20px;
+    font-family: Roboto;
+    font: bold;
+    border-color: black;
+    border: 1px solid black;
+    
+}
+
+.orange {
+    background: #fea500 ;
+    color: white;
+}
+
+.blue {
+    background: #4f4fff;
+    color: white;
+}
+
+.green {
+    background: #16c03b;
+    color: white;
+}

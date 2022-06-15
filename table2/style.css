@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+table {
+    border-collapse: initial;
+    border: white;
+    margin: 20px auto;
+    font-size: 30px;
+} 
+
+th, td {
+    text-align: left;
+    padding: 30px;
+    font-family: Open Sans;
+    font: bold;
+
+}
+
+th {
+    background-color: #86006f;
+    color: white;
+    font: bold;
+}
+
+td {
+    background-color: #af5593;
+    color: WHITE;
+    font: bold; 
+}
+
+
+.purple {
+    background: #f37ecf;
+}
